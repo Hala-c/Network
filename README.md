@@ -38,3 +38,5 @@ Each network segment has been carefully subnetted and configured with IP address
 - Implementing DHCP for dynamic IP management.
 - Documenting network setup for maintenance and scalability.
 
+#Diagram
+<img width="1999" height="812" alt="Enterprise_pro" src="https://github.com/user-attachments/assets/4f928952-aa1e-414e-9e60-e994c6c54f73" />
